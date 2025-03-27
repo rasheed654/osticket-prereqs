@@ -52,6 +52,6 @@ In the windows search box type in control panel. then we can go to programs and 
 />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Install PHP Manager for IIS setup. After that install the Rewrite Module.From the OsTicket in installation file folder, unzip PHP 7.3.8 (php- 7.3.8-nts-Win32-VCIS-X86.zip) into the "C:\php" folder on the Cdrive. Then install my VC_redist.x86 file. Lastly install Mysql. 
 </p>
 <br />
