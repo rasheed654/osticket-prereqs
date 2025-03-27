@@ -55,3 +55,12 @@ In the windows search box type in control panel. then we can go to programs and 
 Install PHP Manager for IIS setup. After that install the Rewrite Module.From the OsTicket in installation file folder, unzip PHP 7.3.8 (php- 7.3.8-nts-Win32-VCIS-X86.zip) into the "C:\php" folder on the Cdrive. Then install my VC_redist.x86 file. Lastly install Mysql. As an admin within IIS register PHP and restart it.
 </p>
 <br />
+<p>
+<img <img width="1115" alt="Screenshot 2025-03-26 at 6 47 35 PM" src="https://github.com/user-attachments/assets/14d5e5bd-e7ef-4565-a340-893e5156e2fb" />
+ />
+/>
+</p>
+<p>
+In the OsTicket installation files folder, unzip "OsTicket-w.15.8.zip" and copy the upload folder in "c:\inetpub\wwwroot". Within "C:inetpub\wwwroot", Rename " upload" to "osTicket".Reload IIS (open IIS, stop and start the server).
+</p>
+<br />
