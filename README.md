@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Connect to your virtual machine with remoye desktop
+- Connect to your virtual machine with remote desktop
 - Install / Enable IIS in Windows
 - Install web platform Installer
 - Install Osticket
