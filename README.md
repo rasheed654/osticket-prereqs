@@ -59,6 +59,6 @@ Install PHP Manager for IIS setup. After that install the Rewrite Module.From th
 <img <img width="1115" alt="Screenshot 2025-03-26 at 6 47 35 PM" src="https://github.com/user-attachments/assets/14d5e5bd-e7ef-4565-a340-893e5156e2fb" />
 </p>
 <p>
-In the OsTicket installation files folder, unzip "OsTicket-w.15.8.zip" and copy the upload folder in "c:\inetpub\wwwroot". Within "C:inetpub\wwwroot", Rename " upload" to "osTicket".Reload IIS (open IIS, stop and start the server).
+In the OsTicket installation files folder, unzip "OsTicket-w.15.8.zip" and copy the upload folder in "c:\inetpub\wwwroot". Within "C:inetpub\wwwroot", Rename " upload" to "osTicket". Reload IIS by opening IIS, stop and start the server.
 </p>
 <br />
