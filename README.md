@@ -63,14 +63,13 @@ In the OsTicket installation files folder, unzip "OsTicket-w.15.8.zip" and copy 
 </p>
 <br />
 <img width="599" alt="Screenshot 2025-03-26 at 7 10 39 PM" src="https://github.com/user-attachments/assets/ae3dcf4f-4723-4b0f-9c04-d35c89527c2c" />
- />
+
  <p>
 In the OsTicket installation files folder install HeidiSQL Setup , Create a new session with root as username and password. Lastly we connected to the session and created a database called "osTicket".
 </p>
 <br />
 <img <img width="823" alt="Screenshot 2025-03-26 at 7 29 39 PM" src="https://github.com/user-attachments/assets/d6f94389-c4fd-4cbf-a27e-a403d55bcd4f" />
- />
- />
+
  <p>
 In MYsql Database"osTicket" and then puttin in your username and password click install now.
 </p>
