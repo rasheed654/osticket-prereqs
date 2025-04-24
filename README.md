@@ -82,11 +82,14 @@ look for Internet Information Services and select it. also in the World Wide Web
  <img width="1121" alt="Screenshot 2025-04-24 at 3 07 51 PM" src="https://github.com/user-attachments/assets/de56c00f-4b77-4f97-a051-80b2284e0ae0" />
 
 <img width="1123" alt="Screenshot 2025-03-26 at 5 52 34 PM" src="https://github.com/user-attachments/assets/bc953b73-af38-4afd-a699-92bc4852d650" />
-</p>
-<p>
+
  <p>
 <img width="499" alt="Screenshot 2025-04-24 at 3 06 47 PM" src="https://github.com/user-attachments/assets/154bc918-8550-4540-ada4-d70b9753ac2d" />
 </p>
+</p>
+From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+
+<p>
 <h3>Step 8</h3>
 <img width="1124" alt="Screenshot 2025-04-24 at 3 17 40 PM" src="https://github.com/user-attachments/assets/a2b89a66-50e5-49ad-82d9-52fd45a159a7" />
 <img width="491" alt="Screenshot 2025-04-24 at 3 18 29 PM" src="https://github.com/user-attachments/assets/be37ed9e-fa8d-402e-a022-8fa32d105da0" />
