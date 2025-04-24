@@ -227,5 +227,5 @@ On the right, click “Browse *:80”
 <img width="457" alt="Screenshot 2025-04-24 at 5 59 26 PM" src="https://github.com/user-attachments/assets/34024f17-e844-4667-8919-f02337d07a13" />
 <img width="918" alt="Screenshot 2025-04-24 at 6 00 04 PM" src="https://github.com/user-attachments/assets/6b65a770-860f-437f-8e3d-09063091ab97" />
 <img width="766" alt="Screenshot 2025-04-24 at 6 00 30 PM" src="https://github.com/user-attachments/assets/07b644e0-93a9-4811-a8c6-c276e6fc559d" />
-
+<p>New Permissions -> Everyone -> All</p>
 
