@@ -178,11 +178,11 @@ In the OsTicket installation files folder, unzip "OsTicket-w.15.8.zip" and copy 
 
  <p>
   <img width="1120" alt="Screenshot 2025-04-24 at 5 01 56 PM" src="https://github.com/user-attachments/assets/4a4318ad-85cd-4993-95d5-cdbcd3ae62d0" />
-
+In the OsTicket installation files folder install HeidiSQL Setup , Create a new session with root as username and password. Lastly we connected to the session and created a database called "osTicket".
   Go to sites -> Default -> osTicket
 On the right, click “Browse *:80”
 
-In the OsTicket installation files folder install HeidiSQL Setup , Create a new session with root as username and password. Lastly we connected to the session and created a database called "osTicket".
+
 </p>
 <br />
 <img <img width="823" alt="Screenshot 2025-03-26 at 7 29 39 PM" src="https://github.com/user-attachments/assets/d6f94389-c4fd-4cbf-a27e-a403d55bcd4f" />
