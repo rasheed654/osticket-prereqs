@@ -217,5 +217,9 @@ On the right, click “Browse *:80”
 <img width="1115" alt="Screenshot 2025-04-24 at 5 39 39 PM" src="https://github.com/user-attachments/assets/0d6de784-d238-4261-bb05-e85474d4930a" />
 <p>To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
+<h4>Assign Permissions</h4>
+<img width="363" alt="Screenshot 2025-04-24 at 5 47 56 PM" src="https://github.com/user-attachments/assets/12eef890-156d-4143-bc4d-c2fd1900a8fc" />
+<img width="360" alt="Screenshot 2025-04-24 at 5 48 28 PM" src="https://github.com/user-attachments/assets/f1352975-ac23-4694-8ab4-a55dcd391bd2" />
+<img width="768" alt="Screenshot 2025-04-24 at 5 49 24 PM" src="https://github.com/user-attachments/assets/d32d1389-78fa-4468-a953-33fa312e112a" />
 
 
