@@ -176,7 +176,7 @@ next we are going to create a folder on the Cdrive called capital PHP
 <p>Reload IIS by Stopping and starting the server</p>
 <img width="1120" alt="Screenshot 2025-04-24 at 5 01 56 PM" src="https://github.com/user-attachments/assets/f4d0324b-0217-4f4b-b349-67dc27a9a76a" />
 
-  Go to sites -> Default -> osTicket
+Go to sites then Default and click osTicket
 On the right, click “Browse *:80”
 
 
