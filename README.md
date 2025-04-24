@@ -64,12 +64,14 @@ I will use the files in this folder to install osTicket and some of the dependen
 
 </p>
 <p>
- 
+ <h3>Step 5</h3>
 In the windows search box type in control panel.
 
 <img width="1122" alt="Screenshot 2025-04-24 at 2 47 33 PM" src="https://github.com/user-attachments/assets/693d26d3-682d-4bae-bf59-e41d4ef66109" />
 
+<h3>Step 6</h3>
 then we can go to programs and click uninstall a program and click on turn windows features on/off. 
+<h3>Step 7</h3>
 <img width="1124" alt="Screenshot 2025-04-24 at 2 54 14 PM" src="https://github.com/user-attachments/assets/73fd48f9-43a6-4d5d-9e17-ff462f1283a8" />
 
 look for Internet Information Services and select it. also in the World Wide Web Service go to Application Development Features and select CGI and click ok to install the web service. 
