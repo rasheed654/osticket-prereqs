@@ -223,3 +223,9 @@ On the right, click “Browse *:80”
 <img width="768" alt="Screenshot 2025-04-24 at 5 49 24 PM" src="https://github.com/user-attachments/assets/d32d1389-78fa-4468-a953-33fa312e112a" />
 <p>Disable inheritance -> Remove All</p>
 
+<img width="768" alt="Screenshot 2025-04-24 at 5 56 34 PM" src="https://github.com/user-attachments/assets/d37afae8-a1e4-4e0f-818b-44305ee57295" />
+<img width="457" alt="Screenshot 2025-04-24 at 5 59 26 PM" src="https://github.com/user-attachments/assets/34024f17-e844-4667-8919-f02337d07a13" />
+<img width="918" alt="Screenshot 2025-04-24 at 6 00 04 PM" src="https://github.com/user-attachments/assets/6b65a770-860f-437f-8e3d-09063091ab97" />
+<img width="766" alt="Screenshot 2025-04-24 at 6 00 30 PM" src="https://github.com/user-attachments/assets/07b644e0-93a9-4811-a8c6-c276e6fc559d" />
+
+
