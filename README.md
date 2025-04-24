@@ -78,6 +78,7 @@ look for Internet Information Services and select it. also in the World Wide Web
 </p>
 <br />
 <h3>Step 7</h3>
+<h4>Installing PHP Manager</h4>
 <p>
  <img width="1121" alt="Screenshot 2025-04-24 at 3 07 51 PM" src="https://github.com/user-attachments/assets/de56c00f-4b77-4f97-a051-80b2284e0ae0" />
 
