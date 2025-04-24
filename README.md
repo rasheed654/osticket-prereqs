@@ -140,7 +140,18 @@ next we are going to create a folder on the Cdrive called capital PHP
 <img width="499" alt="Screenshot 2025-04-24 at 4 08 22 PM" src="https://github.com/user-attachments/assets/3c569dcc-a240-4f14-b49f-f8843ab5ba02" />
 <p>Click on Standard Configuration</p>
 <img width="498" alt="image" src="https://github.com/user-attachments/assets/5a901ba3-0a22-4f66-923b-c876248285e2" />
-<p>Type in a username and password</p>
+<p>Type in a username and password and then click execute</p>
+
+<h3>Step 13</h3>
+
+<img width="768" alt="Screenshot 2025-04-24 at 4 17 43 PM" src="https://github.com/user-attachments/assets/85177c0b-9979-4536-9899-54afa9125f4b" />\
+<p>Open IIS as an Admin</p>
+<img width="1248" alt="Screenshot 2025-04-24 at 4 20 17 PM" src="https://github.com/user-attachments/assets/18b6dc1b-c23d-43e2-a14d-3f5e1a5c4a9d" />
+<p>next select PHP Manager</p>
+<img width="1667" alt="Screenshot 2025-04-24 at 4 24 38 PM" src="https://github.com/user-attachments/assets/97ef084d-76af-409a-85ef-596e80886d24" />
+<p>Next select new Register new php version</p>
+
+
 In the OsTicket installation files folder, unzip "OsTicket-w.15.8.zip" and copy the upload folder in "c:\inetpub\wwwroot". Within "C:inetpub\wwwroot", Rename " upload" to "osTicket". Reload IIS by opening IIS, stop and start the server.
 </p>
 <br />
