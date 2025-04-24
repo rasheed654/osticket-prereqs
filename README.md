@@ -54,15 +54,25 @@ Login to your virtual machine with username and password.
 </p>
 <p>
 Within the VM (osticket-vm), download the osTicket-Installation-Files.zip and unzip it onto your desktop. The folder should be called “osTicket-Installation-Files”
-We will use the files in this folder to install osTicket and some of the dependencies.
+I will use the files in this folder to install osTicket and some of the dependencies.
 
 </p>
 <br />
+<h3>Step 4</h3>
 <p>
-<img <img width="1121" alt="Screenshot 2025-03-26 at 5 47 12 PM" src="https://github.com/user-attachments/assets/b46f9b48-6d76-4fb3-bb89-f88400618067" />
+<img width="786" alt="Screenshot 2025-04-24 at 2 47 04 PM" src="https://github.com/user-attachments/assets/02e85bf3-7900-4a26-a541-a68f913f840b" />
+
 </p>
 <p>
-In the windows search box type in control panel. then we can go to programs and click uninstall a program and click on turn windows features on/off. look for Internet Information Services and select it. also in the World Wide Web Service go to Application Development Features and select CGI and click ok to install the web service. 
+ 
+In the windows search box type in control panel.
+
+<img width="1122" alt="Screenshot 2025-04-24 at 2 47 33 PM" src="https://github.com/user-attachments/assets/693d26d3-682d-4bae-bf59-e41d4ef66109" />
+
+then we can go to programs and click uninstall a program and click on turn windows features on/off. 
+<img width="1124" alt="Screenshot 2025-04-24 at 2 54 14 PM" src="https://github.com/user-attachments/assets/73fd48f9-43a6-4d5d-9e17-ff462f1283a8" />
+
+look for Internet Information Services and select it. also in the World Wide Web Service go to Application Development Features and select CGI and click ok to install the web service. 
 </p>
 <br />
 
