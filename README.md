@@ -79,11 +79,12 @@ look for Internet Information Services and select it. also in the World Wide Web
 <br />
 <h3>Step 7</h3>
 <p>
+ img width="1121" alt="Screenshot 2025-04-24 at 3 07 51 PM" src="https://github.com/user-attachments/assets/34311ae3-334c-45d1-baab-39cab18e1807" />
 <img <img width="1123" alt="Screenshot 2025-03-26 at 5 52 34 PM" src="https://github.com/user-attachments/assets/bc953b73-af38-4afd-a699-92bc4852d650" />
 </p>
 <p>
  <p>
-<img width="1121" alt="Screenshot 2025-04-24 at 3 07 51 PM" src="https://github.com/user-attachments/assets/34311ae3-334c-45d1-baab-39cab18e1807" />
+<
 <img width="499" alt="Screenshot 2025-04-24 at 3 06 47 PM" src="https://github.com/user-attachments/assets/154bc918-8550-4540-ada4-d70b9753ac2d" />
 </p>
 <p>
