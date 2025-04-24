@@ -233,3 +233,5 @@ On the right, click “Browse *:80”
 <img width="1083" alt="Screenshot 2025-04-24 at 6 13 32 PM" src="https://github.com/user-attachments/assets/e17ff07f-f1e9-4125-a967-27afbe2667ad" />
 
 <p>Name Helpdesk</p>
+
+<h4>Installing HeidiSQL</h4>
