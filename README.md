@@ -242,3 +242,6 @@ On the right, click “Browse *:80”
 
 <img width="598" alt="Screenshot 2025-04-24 at 6 23 36 PM" src="https://github.com/user-attachments/assets/2d10d2ed-0d34-4971-9ae9-039303e09c8b" />
 <p>Make sure Launch HeidiSQL is Checked</p>
+<img width="386" alt="Screenshot 2025-04-24 at 6 27 37 PM" src="https://github.com/user-attachments/assets/30a6477c-cde9-4430-9f67-68385e206ae1" />
+<img width="688" alt="Screenshot 2025-04-24 at 6 28 23 PM" src="https://github.com/user-attachments/assets/b5aeebb7-e710-4280-ac71-273958962d3e" />
+<p>Create a new session, root/root</p>
