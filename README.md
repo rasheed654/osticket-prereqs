@@ -228,4 +228,8 @@ On the right, click “Browse *:80”
 <img width="918" alt="Screenshot 2025-04-24 at 6 00 04 PM" src="https://github.com/user-attachments/assets/6b65a770-860f-437f-8e3d-09063091ab97" />
 <img width="766" alt="Screenshot 2025-04-24 at 6 00 30 PM" src="https://github.com/user-attachments/assets/07b644e0-93a9-4811-a8c6-c276e6fc559d" />
 <p>New Permissions -> Everyone -> All</p>
+<h3>Step 17</h3>
+<h4>Continue Setting up osTicket in the browser</h4>
+<img width="1083" alt="Screenshot 2025-04-24 at 6 13 32 PM" src="https://github.com/user-attachments/assets/e17ff07f-f1e9-4125-a967-27afbe2667ad" />
 
+<p>Name Helpdesk</p>
