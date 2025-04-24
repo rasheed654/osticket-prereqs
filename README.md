@@ -156,7 +156,7 @@ next we are going to create a folder on the Cdrive called capital PHP
 
 <p>Reload IIS by Stopping and starting the server</p>
 
-<h3>Step14</h3>
+<h3>Step 14</h3>
 <img width="1124" alt="Screenshot 2025-04-24 at 4 40 20 PM" src="https://github.com/user-attachments/assets/000333ac-d5ef-4c36-9782-ed705e0d7d77" />
 
 <p>Install osTicket v1.15.8 From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip”</p>
