@@ -150,6 +150,8 @@ next we are going to create a folder on the Cdrive called capital PHP
 <p>next select PHP Manager</p>
 <img width="1667" alt="Screenshot 2025-04-24 at 4 24 38 PM" src="https://github.com/user-attachments/assets/97ef084d-76af-409a-85ef-596e80886d24" />
 <p>Next select new Register new php version</p>
+<img width="1108" alt="Screenshot 2025-04-24 at 4 27 17 PM" src="https://github.com/user-attachments/assets/2375825a-d533-4e08-acb2-b5f64a54451e" />
+<p>Then Browse through the Php folder and look for php-cgi and click on it</p>
 
 
 In the OsTicket installation files folder, unzip "OsTicket-w.15.8.zip" and copy the upload folder in "c:\inetpub\wwwroot". Within "C:inetpub\wwwroot", Rename " upload" to "osTicket". Reload IIS by opening IIS, stop and start the server.
