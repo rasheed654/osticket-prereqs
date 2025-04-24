@@ -193,6 +193,8 @@ On the right, click “Browse *:80”
  <img width="1121" alt="Screenshot 2025-04-24 at 5 23 44 PM" src="https://github.com/user-attachments/assets/146ca36b-e2fc-4a64-a4d4-cc5c2b230c72" />
 <p>Double-click PHP Managerand then Click “Enable or disable an extension”
 </p>
+<img width="1105" alt="Screenshot 2025-04-24 at 5 29 47 PM" src="https://github.com/user-attachments/assets/1d1b056b-b8b4-4cc4-b1c4-8b32ef2b3b49" />
+
 <p>Enable these three extentions Enable: php_imap.dll,Enable: php_intl.dll, Enable: php_opcache.dll
 </p>
 <img <img width="823" alt="Screenshot 2025-03-26 at 7 29 39 PM" src="https://github.com/user-attachments/assets/d6f94389-c4fd-4cbf-a27e-a403d55bcd4f" />
