@@ -244,4 +244,13 @@ On the right, click “Browse *:80”
 <p>Make sure Launch HeidiSQL is Checked</p>
 <img width="386" alt="Screenshot 2025-04-24 at 6 27 37 PM" src="https://github.com/user-attachments/assets/30a6477c-cde9-4430-9f67-68385e206ae1" />
 <img width="688" alt="Screenshot 2025-04-24 at 6 28 23 PM" src="https://github.com/user-attachments/assets/b5aeebb7-e710-4280-ac71-273958962d3e" />
-<p>Create a new session, root/root</p>
+<img width="477" alt="Screenshot 2025-04-24 at 6 34 41 PM" src="https://github.com/user-attachments/assets/3de0c6cc-2d86-453b-8f88-d7d42662702d" />
+
+<p>Create a new session, root username/root password</p>
+<img width="936" alt="Screenshot 2025-04-24 at 6 36 21 PM" src="https://github.com/user-attachments/assets/4ea4dcfd-18ea-4a6e-9fc8-44d58ec55ee2" />
+
+<p>Connect to the session</p>
+<img width="932" alt="Screenshot 2025-04-24 at 6 37 57 PM" src="https://github.com/user-attachments/assets/7946f5e6-504c-433e-99c1-6d4199b1e7be" />
+<img width="937" alt="Screenshot 2025-04-24 at 6 38 26 PM" src="https://github.com/user-attachments/assets/c2c6e10d-00fd-4717-8386-ed81e8d1b58b" />
+
+<p>Create a database called “osTicket”</p>
