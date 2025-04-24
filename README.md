@@ -112,7 +112,12 @@ in the windows File explorer go to Cdrive
 <p>
 next we are going to create a folder on the Cdrive called capital PHP
  </p>
-<p>
+<h3>Step 10</h3>
+<p> From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
+</p>
+<img width="1124" alt="Screenshot 2025-04-24 at 3 40 35 PM" src="https://github.com/user-attachments/assets/707b8585-4741-4741-bf65-1eaa90dceba9" />
+<img width="1107" alt="Screenshot 2025-04-24 at 3 41 35 PM" src="https://github.com/user-attachments/assets/5f04f0af-7e59-40d5-a2aa-2c762ccda573" />
+
 
 <br />
 <p>
