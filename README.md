@@ -175,7 +175,6 @@ In the OsTicket installation files folder, unzip "OsTicket-w.15.8.zip" and copy 
 
 <p>Within "C:inetpub\wwwroot", Rename " upload" to "osTicket".</p>
 <br />
-<img width="599" alt="Screenshot 2025-03-26 at 7 10 39 PM" src="https://github.com/user-attachments/assets/ae3dcf4f-4723-4b0f-9c04-d35c89527c2c" />
 
  <p>
   <img width="1120" alt="Screenshot 2025-04-24 at 5 01 56 PM" src="https://github.com/user-attachments/assets/4a4318ad-85cd-4993-95d5-cdbcd3ae62d0" />
