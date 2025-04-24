@@ -140,7 +140,7 @@ next we are going to create a folder on the Cdrive called capital PHP
 <img width="499" alt="Screenshot 2025-04-24 at 4 08 22 PM" src="https://github.com/user-attachments/assets/3c569dcc-a240-4f14-b49f-f8843ab5ba02" />
 <p>Click on Standard Configuration</p>
 <img width="498" alt="image" src="https://github.com/user-attachments/assets/5a901ba3-0a22-4f66-923b-c876248285e2" />
-<p>Make sure username and password is root no capital letters</p>
+<p>Type in a username and password</p>
 In the OsTicket installation files folder, unzip "OsTicket-w.15.8.zip" and copy the upload folder in "c:\inetpub\wwwroot". Within "C:inetpub\wwwroot", Rename " upload" to "osTicket". Reload IIS by opening IIS, stop and start the server.
 </p>
 <br />
