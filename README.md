@@ -235,3 +235,8 @@ On the right, click “Browse *:80”
 <p>Name Helpdesk</p>
 
 <h4>Installing HeidiSQL</h4>
+<img width="1124" alt="Screenshot 2025-04-24 at 6 18 25 PM" src="https://github.com/user-attachments/assets/8cba4f60-948e-46ba-adc6-c52fd3b42400" />
+<img width="1124" alt="Screenshot 2025-04-24 at 6 18 25 PM" src="https://github.com/user-attachments/assets/c424a930-1931-462a-b920-ac279b28984b" />
+<img width="1128" alt="Screenshot 2025-04-24 at 6 20 45 PM" src="https://github.com/user-attachments/assets/f227ee58-3f2c-420b-adf5-92a0fdcf5670" />
+
+<p>From the Osticket installation folder download HeidiSQL</p>
