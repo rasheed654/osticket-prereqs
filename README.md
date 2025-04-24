@@ -77,7 +77,7 @@ then we can go to programs and click uninstall a program and click on turn windo
 look for Internet Information Services and select it. also in the World Wide Web Service go to Application Development Features and select CGI and click ok to install the web service. 
 </p>
 <br />
-<h3>Step 7</h3>
+<h3>Step 6</h3>
 <h4>Installing PHP Manager</h4>
 <p>
  <img width="1121" alt="Screenshot 2025-04-24 at 3 07 51 PM" src="https://github.com/user-attachments/assets/de56c00f-4b77-4f97-a051-80b2284e0ae0" />
@@ -91,7 +91,7 @@ look for Internet Information Services and select it. also in the World Wide Web
 From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 
 <p>
-<h3>Step 8</h3>
+<h3>Step 7</h3>
 <img width="1124" alt="Screenshot 2025-04-24 at 3 17 40 PM" src="https://github.com/user-attachments/assets/a2b89a66-50e5-49ad-82d9-52fd45a159a7" />
 <img width="491" alt="Screenshot 2025-04-24 at 3 18 29 PM" src="https://github.com/user-attachments/assets/be37ed9e-fa8d-402e-a022-8fa32d105da0" />
 </p>
@@ -101,7 +101,7 @@ From the “osTicket-Installation-Files” folder install the Rewrite Module (re
 
 <br />
 <p>
-<h3>Step 9 Create the directory C:\PHP </h3>
+<h3>Step 8 Create the directory C:\PHP </h3>
 <img width="1124" alt="Screenshot 2025-04-24 at 3 30 12 PM" src="https://github.com/user-attachments/assets/c08bee5c-9d74-4b79-aab5-e568427648fd" />
 <p>
 in the windows File explorer go to Cdrive
@@ -113,7 +113,7 @@ in the windows File explorer go to Cdrive
 <p>
 next we are going to create a folder on the Cdrive called capital PHP
  </p>
-<h3>Step 10</h3>
+<h3>Step 9</h3>
 <p> From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
 </p>
 <img width="1124" alt="Screenshot 2025-04-24 at 3 40 35 PM" src="https://github.com/user-attachments/assets/707b8585-4741-4741-bf65-1eaa90dceba9" />
@@ -121,7 +121,7 @@ next we are going to create a folder on the Cdrive called capital PHP
 
 
 <br />
-<h3>Step 11</h3>
+<h3>Step 10</h3>
 
 <img width="1126" alt="Screenshot 2025-04-24 at 3 53 22 PM" src="https://github.com/user-attachments/assets/990d7a36-c1ec-469c-b006-498acbaf23b6" /><img width="472" alt="Screenshot 2025-04-24 at 3 54 13 PM" src="https://github.com/user-attachments/assets/60bca9af-0f42-44e1-8d53-b682ffb9479b" />
 
@@ -129,7 +129,7 @@ next we are going to create a folder on the Cdrive called capital PHP
 
 </p>
 </p>
-<h3>Step 12</h3>
+<h3>Step 11</h3>
 <img width="1127" alt="Screenshot 2025-04-24 at 3 59 07 PM" src="https://github.com/user-attachments/assets/7438d63a-6fde-4ce7-89ef-dc694dc7bdc4" />
 <p>From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 </p>
@@ -143,7 +143,7 @@ next we are going to create a folder on the Cdrive called capital PHP
 <img width="498" alt="image" src="https://github.com/user-attachments/assets/5a901ba3-0a22-4f66-923b-c876248285e2" />
 <p>Type in a username and password and then click execute</p>
 
-<h3>Step 13</h3>
+<h3>Step 12</h3>
 
 <img width="768" alt="Screenshot 2025-04-24 at 4 17 43 PM" src="https://github.com/user-attachments/assets/85177c0b-9979-4536-9899-54afa9125f4b" />\
 <p>Open IIS as an Admin</p>
@@ -157,7 +157,7 @@ next we are going to create a folder on the Cdrive called capital PHP
 
 <p>Reload IIS by Stopping and starting the server</p>
 
-<h3>Step 14</h3>
+<h3>Step 13</h3>
 <img width="1124" alt="Screenshot 2025-04-24 at 4 40 20 PM" src="https://github.com/user-attachments/assets/000333ac-d5ef-4c36-9782-ed705e0d7d77" />
 
 <p>Install osTicket v1.15.8 From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip”</p>
@@ -184,7 +184,7 @@ On the right, click “Browse *:80”
 
 </p>
 <br />
-<h3>Step 15</h3>
+<h3>Step 14</h3>
 
 <<img width="1123" alt="Screenshot 2025-04-24 at 5 24 57 PM" src="https://github.com/user-attachments/assets/86e6f286-6e43-4cc6-9c66-0103d56c0ade" />
 
@@ -206,7 +206,7 @@ On the right, click “Browse *:80”
 
 
 
-  <h3>Step 16</h3>
+  <h3>Step 15</h3>
   <h4>Rename ost-config.php</h4>
 <img width="1119" alt="Screenshot 2025-04-24 at 5 37 23 PM" src="https://github.com/user-attachments/assets/e0063f4d-5808-4376-85df-14d14d72cc51" />
  <img width="1115" alt="Screenshot 2025-04-24 at 5 37 41 PM" src="https://github.com/user-attachments/assets/f2837e7f-574d-4564-8c59-85d8f63a640a" />
@@ -229,7 +229,7 @@ On the right, click “Browse *:80”
 <img width="918" alt="Screenshot 2025-04-24 at 6 00 04 PM" src="https://github.com/user-attachments/assets/6b65a770-860f-437f-8e3d-09063091ab97" />
 <img width="766" alt="Screenshot 2025-04-24 at 6 00 30 PM" src="https://github.com/user-attachments/assets/07b644e0-93a9-4811-a8c6-c276e6fc559d" />
 <p>New Permissions -> Everyone -> All</p>
-<h3>Step 17</h3>
+<h3>Step 16</h3>
 <h4>Continue Setting up osTicket in the browser</h4>
 <img width="1083" alt="Screenshot 2025-04-24 at 6 13 32 PM" src="https://github.com/user-attachments/assets/e17ff07f-f1e9-4125-a967-27afbe2667ad" />
 
@@ -255,7 +255,7 @@ On the right, click “Browse *:80”
 <img width="937" alt="Screenshot 2025-04-24 at 6 38 26 PM" src="https://github.com/user-attachments/assets/c2c6e10d-00fd-4717-8386-ed81e8d1b58b" />
 
 <p>Create a database called “osTicket”</p>
-<h3>Step 18</h3>
+<h3>Step 17</h3>
 <h4>Continue Setting up osTicket in the Browser</h4>
 <img width="822" alt="Screenshot 2025-04-24 at 6 45 02 PM" src="https://github.com/user-attachments/assets/a3ddea1c-3799-414f-a6e6-2ab401386f15" />
 <p>MySQL Database: osTicket
