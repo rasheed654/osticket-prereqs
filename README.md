@@ -207,7 +207,13 @@ On the right, click “Browse *:80”
   <h3>Step 16</h3>
 <img width="1119" alt="Screenshot 2025-04-24 at 5 37 23 PM" src="https://github.com/user-attachments/assets/e0063f4d-5808-4376-85df-14d14d72cc51" />
  <img width="1115" alt="Screenshot 2025-04-24 at 5 37 41 PM" src="https://github.com/user-attachments/assets/f2837e7f-574d-4564-8c59-85d8f63a640a" />
+ <img width="1118" alt="Screenshot 2025-04-24 at 5 38 59 PM" src="https://github.com/user-attachments/assets/ed94ae9e-1a62-417a-88a3-15bb97ff690f" />
+
 <p>Rename ost-config.php From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+</p>
+
+<img width="1115" alt="Screenshot 2025-04-24 at 5 39 39 PM" src="https://github.com/user-attachments/assets/0d6de784-d238-4261-bb05-e85474d4930a" />
+<p>To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 
 
