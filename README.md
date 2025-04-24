@@ -170,7 +170,7 @@ next we are going to create a folder on the Cdrive called capital PHP
  
 In the OsTicket installation files folder, unzip "OsTicket-w.15.8.zip" and copy the upload folder in "c:\inetpub\wwwroot". 
 </p>
-<img width="1118" alt="Screenshot 2025-04-24 at 4 46 07 PM" src="https://github.com/user-attachments/assets/ab53e506-ffec-4d2d-a366-b2294e9b671e" />
+
 <img width="1117" alt="Screenshot 2025-04-24 at 4 54 15 PM" src="https://github.com/user-attachments/assets/5a56a954-bf3b-4189-be99-e68d20d2ff98" />
 
 <p>Within "C:inetpub\wwwroot", Rename " upload" to "osTicket".</p>
