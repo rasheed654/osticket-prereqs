@@ -121,10 +121,12 @@ next we are going to create a folder on the Cdrive called capital PHP
 
 <br />
 <h3>Step 11</h3>
+
+<img width="1126" alt="Screenshot 2025-04-24 at 3 53 22 PM" src="https://github.com/user-attachments/assets/990d7a36-c1ec-469c-b006-498acbaf23b6" />
+<img width="472" alt="Screenshot 2025-04-24 at 3 54 13 PM" src="https://github.com/user-attachments/assets/60bca9af-0f42-44e1-8d53-b682ffb9479b" />
 <p> install VC_redist.x86.exe. From the “osTicket-Installation-Files” folder.
 
 </p>
-<img <img width="1115" alt="Screenshot 2025-03-26 at 6 47 35 PM" src="https://github.com/user-attachments/assets/14d5e5bd-e7ef-4565-a340-893e5156e2fb" />
 </p>
 <p>
 In the OsTicket installation files folder, unzip "OsTicket-w.15.8.zip" and copy the upload folder in "c:\inetpub\wwwroot". Within "C:inetpub\wwwroot", Rename " upload" to "osTicket". Reload IIS by opening IIS, stop and start the server.
