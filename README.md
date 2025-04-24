@@ -256,3 +256,10 @@ On the right, click “Browse *:80”
 <p>Create a database called “osTicket”</p>
 <h3>Step 18</h3>
 <h4>Continue Setting up osTicket in the Browser</h4>
+<img width="822" alt="Screenshot 2025-04-24 at 6 45 02 PM" src="https://github.com/user-attachments/assets/a3ddea1c-3799-414f-a6e6-2ab401386f15" />
+<p>MySQL Database: osTicket
+MySQL Username: root
+MySQL Password: root
+</p>
+<img width="1105" alt="Screenshot 2025-04-24 at 6 45 49 PM" src="https://github.com/user-attachments/assets/274c56e3-74e0-4d92-8b90-438186660748" />
+<p>Click “Install Now!”</p>
