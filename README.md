@@ -183,6 +183,16 @@ On the right, click “Browse *:80”
 
 </p>
 <br />
+<h3>Step 15</h3>
+<<img width="1123" alt="Screenshot 2025-04-24 at 5 24 57 PM" src="https://github.com/user-attachments/assets/86e6f286-6e43-4cc6-9c66-0103d56c0ade" />
+
+
+<p>To enable some extensions we got to Go back to IIS, sites -> Default -> osTicket
+ </p>
+
+ <img width="1121" alt="Screenshot 2025-04-24 at 5 23 44 PM" src="https://github.com/user-attachments/assets/146ca36b-e2fc-4a64-a4d4-cc5c2b230c72" />
+<p>Double-click PHP Managerand then Click “Enable or disable an extension”
+</p>
 <img <img width="823" alt="Screenshot 2025-03-26 at 7 29 39 PM" src="https://github.com/user-attachments/assets/d6f94389-c4fd-4cbf-a27e-a403d55bcd4f" />
 
  <p>
