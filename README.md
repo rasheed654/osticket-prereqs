@@ -200,9 +200,14 @@ On the right, click “Browse *:80”
 <img width="825" alt="Screenshot 2025-04-24 at 5 33 37 PM" src="https://github.com/user-attachments/assets/1f88507a-c543-44a8-b3b7-4fcd3ade5fc1" />
 
 <p>Refresh the OsTicket browser and observe the changes</p>
-<img <img width="823" alt="Screenshot 2025-03-26 at 7 29 39 PM" src="https://github.com/user-attachments/assets/d6f94389-c4fd-4cbf-a27e-a403d55bcd4f" />
 
- <p>
-In MYsql Database"osTicket" and then puttin in your username and password click install now.
+
+
+
+  <h3>Step 16</h3>
+<img width="1119" alt="Screenshot 2025-04-24 at 5 37 23 PM" src="https://github.com/user-attachments/assets/e0063f4d-5808-4376-85df-14d14d72cc51" />
+ <img width="1115" alt="Screenshot 2025-04-24 at 5 37 41 PM" src="https://github.com/user-attachments/assets/f2837e7f-574d-4564-8c59-85d8f63a640a" />
+<p>Rename ost-config.php From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 </p>
+
 
