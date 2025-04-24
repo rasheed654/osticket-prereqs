@@ -27,7 +27,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Setting up OsTicket in the browser
 
 <h2>Installation Steps</h2>
+<h3>Step 1</h3>
+<p>
+<img width="1046" alt="Screenshot 2025-04-24 at 2 37 02 PM" src="https://github.com/user-attachments/assets/ab371dfa-b3e9-4cc5-be6f-6aa1298fa3e5" />
+</p>
+<p>
+Create an Azure Virtual Machine Windows 10, 4 vCPUs
+Name: osticket-vm
+Username: labuser
+Password: osTicketPassword1!
 
+</p>
+<br />
+<h3>Step 2</h3>
 <p>
 <img <img width="1170" alt="Screenshot 2025-03-26 at 5 44 19 PM" src="https://github.com/user-attachments/assets/874f051f-2af3-4849-9821-f2adfe41e6ab" />
 </p>
