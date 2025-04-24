@@ -120,7 +120,10 @@ next we are going to create a folder on the Cdrive called capital PHP
 
 
 <br />
-<p>
+<h3>Step 11</h3>
+<p> install VC_redist.x86.exe. From the “osTicket-Installation-Files” folder.
+
+</p>
 <img <img width="1115" alt="Screenshot 2025-03-26 at 6 47 35 PM" src="https://github.com/user-attachments/assets/14d5e5bd-e7ef-4565-a340-893e5156e2fb" />
 </p>
 <p>
