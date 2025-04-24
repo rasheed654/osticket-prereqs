@@ -254,3 +254,5 @@ On the right, click “Browse *:80”
 <img width="937" alt="Screenshot 2025-04-24 at 6 38 26 PM" src="https://github.com/user-attachments/assets/c2c6e10d-00fd-4717-8386-ed81e8d1b58b" />
 
 <p>Create a database called “osTicket”</p>
+<h3>Step 18</h3>
+<h4>Continue Setting up osTicket in the Browser</h4>
