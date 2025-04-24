@@ -163,10 +163,7 @@ next we are going to create a folder on the Cdrive called capital PHP
 <img width="1126" alt="Screenshot 2025-04-24 at 4 43 49 PM" src="https://github.com/user-attachments/assets/df67e8b6-730f-4efb-a47d-62efc099cbd9" />
 <img width="1125" alt="Screenshot 2025-04-24 at 4 45 02 PM" src="https://github.com/user-attachments/assets/a46ec4d7-fa47-4095-8286-e6fa4df86372" />
 <p>In the OsTicket installation files folder, unzip "OsTicket-w.15.8.zip" and copy the upload folder in "c:\inetpub\wwwroot". </p>
-<img width="1121" alt="image" src="https://github.com/user-attachments/assets/aa860e10-1243-4e21-9972-fe6aaafae032" />
-<p>Reload IIS by Stopping and starting the server</p>
-<p>
- 
+
  
 
 </p>
@@ -175,7 +172,10 @@ next we are going to create a folder on the Cdrive called capital PHP
 
 <p>Within "C:inetpub\wwwroot", Rename " upload" to "osTicket".</p>
 <br />
-
+<img width="1121" alt="image" src="https://github.com/user-attachments/assets/aa860e10-1243-4e21-9972-fe6aaafae032" />
+<p>Reload IIS by Stopping and starting the server</p>
+<p>
+ 
  <p>
   <img width="1120" alt="Screenshot 2025-04-24 at 5 01 56 PM" src="https://github.com/user-attachments/assets/4a4318ad-85cd-4993-95d5-cdbcd3ae62d0" />
 In the OsTicket installation files folder install HeidiSQL Setup , Create a new session with root as username and password. Lastly we connected to the session and created a database called "osTicket".
