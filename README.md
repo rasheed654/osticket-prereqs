@@ -128,7 +128,15 @@ next we are going to create a folder on the Cdrive called capital PHP
 
 </p>
 </p>
-<p>
+<h3>Step 12</h3>
+<img width="1127" alt="Screenshot 2025-04-24 at 3 59 07 PM" src="https://github.com/user-attachments/assets/7438d63a-6fde-4ce7-89ef-dc694dc7bdc4" />
+<p>From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+</p>
+<img width="495" alt="Screenshot 2025-04-24 at 4 00 00 PM" src="https://github.com/user-attachments/assets/b7fab071-373c-4dee-8ea9-4cad3418f0ae" />
+<p>Click on tipical Setup and hit then hit install
+</p>
+ <img width="343" alt="image" src="https://github.com/user-attachments/assets/0cac1b4b-e44f-4d7c-b689-abbcfbce4b86" />
+<p>Next we Launch Configuration Wizard (after install) </p>
 In the OsTicket installation files folder, unzip "OsTicket-w.15.8.zip" and copy the upload folder in "c:\inetpub\wwwroot". Within "C:inetpub\wwwroot", Rename " upload" to "osTicket". Reload IIS by opening IIS, stop and start the server.
 </p>
 <br />
