@@ -102,18 +102,18 @@ From the “osTicket-Installation-Files” folder install the Rewrite Module (re
 <p>
 <h3>Step 9 Create the directory C:\PHP </h3>
 <img width="1124" alt="Screenshot 2025-04-24 at 3 30 12 PM" src="https://github.com/user-attachments/assets/c08bee5c-9d74-4b79-aab5-e568427648fd" />
-/p>
+<p>
 in the windows File explorer go to Cdrive
+</p>
+
+
+<p>
 next we are going to create a folder on the Cdrive called capital PHP
-
-
+ </p>
 <p>
 <img width="1127" alt="Screenshot 2025-04-24 at 3 32 27 PM" src="https://github.com/user-attachments/assets/1df82d14-c8a8-43aa-8da5-f9dc43a0ef5e" />
 
 </p>
-
-next we are going to create a folder on the Cdrive called capital PHP
-
 
 <p>
 
