@@ -187,7 +187,7 @@ On the right, click “Browse *:80”
 <br />
 <h3>Step 14</h3>
 
-<<img width="1123" alt="Screenshot 2025-04-24 at 5 24 57 PM" src="https://github.com/user-attachments/assets/86e6f286-6e43-4cc6-9c66-0103d56c0ade" />
+<img width="1123" alt="Screenshot 2025-04-24 at 5 24 57 PM" src="https://github.com/user-attachments/assets/86e6f286-6e43-4cc6-9c66-0103d56c0ade" />
 
 
 <p>To enable some extensions we got to Go back to IIS, sites -> Default -> osTicket
