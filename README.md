@@ -160,10 +160,18 @@ next we are going to create a folder on the Cdrive called capital PHP
 <img width="1124" alt="Screenshot 2025-04-24 at 4 40 20 PM" src="https://github.com/user-attachments/assets/000333ac-d5ef-4c36-9782-ed705e0d7d77" />
 
 <p>Install osTicket v1.15.8 From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip”</p>
+<img width="1126" alt="Screenshot 2025-04-24 at 4 43 49 PM" src="https://github.com/user-attachments/assets/df67e8b6-730f-4efb-a47d-62efc099cbd9" />
+<img width="1125" alt="Screenshot 2025-04-24 at 4 45 02 PM" src="https://github.com/user-attachments/assets/a46ec4d7-fa47-4095-8286-e6fa4df86372" />
 
 <p>
-In the OsTicket installation files folder, unzip "OsTicket-w.15.8.zip" and copy the upload folder in "c:\inetpub\wwwroot". Within "C:inetpub\wwwroot", Rename " upload" to "osTicket". Reload IIS by opening IIS, stop and start the server.
+ 
+ 
+In the OsTicket installation files folder, unzip "OsTicket-w.15.8.zip" and copy the upload folder in "c:\inetpub\wwwroot". 
 </p>
+<img width="1118" alt="Screenshot 2025-04-24 at 4 46 07 PM" src="https://github.com/user-attachments/assets/ab53e506-ffec-4d2d-a366-b2294e9b671e" />
+<img width="1117" alt="Screenshot 2025-04-24 at 4 54 15 PM" src="https://github.com/user-attachments/assets/5a56a954-bf3b-4189-be99-e68d20d2ff98" />
+
+<p>Within "C:inetpub\wwwroot", Rename " upload" to "osTicket".</p>
 <br />
 <img width="599" alt="Screenshot 2025-03-26 at 7 10 39 PM" src="https://github.com/user-attachments/assets/ae3dcf4f-4723-4b0f-9c04-d35c89527c2c" />
 
