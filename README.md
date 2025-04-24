@@ -47,7 +47,17 @@ Password: osTicketPassword1!
 Login to your virtual machine with username and password.
 </p>
 <br />
+<h3>Step 3</h3>
+<p>
+<img width="1087" alt="image" src="https://github.com/user-attachments/assets/664f06d5-1e06-4e7e-8ab5-72ad87aaf4cb" />
 
+</p>
+<p>
+Within the VM (osticket-vm), download the osTicket-Installation-Files.zip and unzip it onto your desktop. The folder should be called “osTicket-Installation-Files”
+We will use the files in this folder to install osTicket and some of the dependencies.
+
+</p>
+<br />
 <p>
 <img <img width="1121" alt="Screenshot 2025-03-26 at 5 47 12 PM" src="https://github.com/user-attachments/assets/b46f9b48-6d76-4fb3-bb89-f88400618067" />
 </p>
