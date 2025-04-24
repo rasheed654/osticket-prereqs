@@ -239,3 +239,6 @@ On the right, click “Browse *:80”
 <img width="1128" alt="Screenshot 2025-04-24 at 6 20 45 PM" src="https://github.com/user-attachments/assets/f227ee58-3f2c-420b-adf5-92a0fdcf5670" />
 
 <p>From the Osticket installation folder download HeidiSQL</p>
+
+<img width="598" alt="Screenshot 2025-04-24 at 6 23 36 PM" src="https://github.com/user-attachments/assets/2d10d2ed-0d34-4971-9ae9-039303e09c8b" />
+<p>Make sure </p>
